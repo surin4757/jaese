@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dev/colcon_venv/install/main_controlller/lib/python3.12/site-packages",
+        "/home/dev/ros2_ws/build/main_controller",
+        "/home/dev/ros2_ws/install/main_controller/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dev/colcon_venv/install/main_controlller/lib/python3.12/site-packages",
+        "/home/dev/ros2_ws/build/main_controller",
+        "/home/dev/ros2_ws/install/main_controller/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
